@@ -44,7 +44,7 @@ watch(Escape, (v) => {
       <template #footer>
         <div class="command-palette-logo">
           <a
-            href="https://github.com/KeJunMao/ai-anything"
+            href="https://github.com/nirugima"
             target="_blank"
             rel="noopener noreferrer"
           >

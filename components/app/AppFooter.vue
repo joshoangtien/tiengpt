@@ -12,11 +12,11 @@
       </div>
       <div hidden sm:block>
         Powered by<NuxtLink
-          to="https://github.com/KeJunMao"
+          to="https://github.com/nirugima"
           target="_blank"
           ml-1
         >
-          KeJun
+          Nirugima
         </NuxtLink>
       </div>
       <div sm:w-50 flex justify-end>
